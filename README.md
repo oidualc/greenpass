@@ -6,4 +6,4 @@ Just place your green pass named "greenpass.png" under the `src/assets` director
 
 ## Build
 
-Refer to the React Native documentation to build this app. Es. for Android `npm run android --variant=release`
+Refer to the React Native documentation to build this app. Es. for Android `npm run android -- --variant=release`
