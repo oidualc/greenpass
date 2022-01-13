@@ -1,7 +1,7 @@
 import React from "react";
 import { Dimensions, Image, ScrollView } from "react-native";
 
-const image = require("../assets/greenpass.jpeg");
+const image = require("../assets/greenpass.jpg");
 const source = Image.resolveAssetSource(image);
 const windowWidth = Dimensions.get("window").width;
 const heightToWidthRatio = source.height / source.width;
